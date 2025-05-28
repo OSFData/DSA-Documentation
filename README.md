@@ -32,3 +32,10 @@ the primary data source is from ....
 ### Data Analysis
 
 exploratory data analysis EDA
+
+``` SQL
+SELECT A B C
+Where
+
+```
+
