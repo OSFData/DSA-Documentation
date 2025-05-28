@@ -14,7 +14,7 @@ talk about the project
 the primary data source is from ....
 
 ### Tools Used
-- Ms Excel
+- Ms Excel [download here](arsenal.com)
      - For data collection
      - For Cleaning
        1. Data manipulation
@@ -25,3 +25,10 @@ the primary data source is from ....
 - MS Powerpoint
 
 
+### Data Cleaning and Preparation
+
+
+
+### Data Analysis
+
+exploratory data analysis EDA
