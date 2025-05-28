@@ -39,3 +39,8 @@ Where
 
 ```
 
+### Analysis 
+
+
+
+[Dear-Husband-wife-Ebook-compressed.pdf](https://github.com/user-attachments/files/20494437/Dear-Husband-wife-Ebook-compressed.pdf)
