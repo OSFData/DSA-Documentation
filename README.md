@@ -7,3 +7,21 @@ Started from MS Excel then we moved to SQL then to Portfolio Building
 
 ### Project Overview
 talk about the project 
+
+
+
+### Data Source
+the primary data source is from ....
+
+### Tools Used
+- Ms Excel
+     - For data collection
+     - For Cleaning
+       1. Data manipulation
+       2. Data munching
+          
+- SQL Server
+- Power BI
+- MS Powerpoint
+
+
